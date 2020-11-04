@@ -44,7 +44,7 @@ Form.addEventListener('submit', async (e) => {
             return ERROR();
         console.log(data.url);
         //console.log(data.url._key);
-        messageTwo.innerHTML="<a href=\""+data.url._url+"\"> https:////sumantourlshort.herokuapp.com//"+data.url._key+"</a> is the shortened URL";
+        messageTwo.innerHTML="<h3><a href=\""+data.url._url+"\"> https://sumantourlshort.herokuapp.com/"+data.url._key+"</a> is the shortened URL</h3>";
     }
     catch(error)
     {
