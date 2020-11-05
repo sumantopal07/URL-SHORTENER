@@ -1,9 +1,8 @@
 # URL-SHORTENER
-
-Basic-Elections-Node-app
+https://sumantourlshort.herokuapp.com/
 # About
 url shortener with dark minimalistic ui built on Node.js and MongoDB
-https://sumantourlshort.herokuapp.com/
+
 
 # How run to code
 go to the terminal and cd to the file
