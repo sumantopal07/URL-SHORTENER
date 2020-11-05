@@ -10,5 +10,5 @@ run 'npm install'
 run 'npm run dev'
 
 # Please STAR the repo if it was of use to you
-Future ideas to develop it further:
+Future ideas to develop it further:  
 Adding own slug
