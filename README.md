@@ -4,6 +4,10 @@ https://sumantourlshort.herokuapp.com/
 url shortener with dark minimalistic ui built on Node.js and MongoDB
 
 
+---
+
+![](screenshots/xyz.png)
+--- 
 # How run to code
 go to the terminal and cd to the file
 run 'npm install'
